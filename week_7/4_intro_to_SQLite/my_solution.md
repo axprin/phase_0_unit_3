@@ -27,7 +27,11 @@ sqlite> SELECT * FROM users;
 2|Andy|Principe|andyprincipe@gmail.com|2014-05-14 02:15:22|2014-05-14 02:15:22|MEATBALL
 
 ## Release 4: Change a value
-<!-- paste your terminal output here -->
+sqlite> UPDATE users SET first_name ='Kimmy', last_name ='Lin', nickname = 'Ninja Coder" where email = 'kimmy@devbootcamp.com';
+sqlite> SELECT * FROM users;
+1|Kimmey|Lin|kimmy@devbootcamp.com|2014-05-14 02:14:03|2014-05-14 02:14:03|Ninja Coder
+2|Andy|Principe|andyprincipe@gmail.com|2014-05-14 02:15:22|2014-05-14 02:15:22|
+
 
 ## Release 5: Reflect
-<!-- Add your reflection here -->
+I think this was a good introduction to using SQL/SQLite. I had previous experience with SQL via SQL Server Management Studio, where it color codes everything for you, which I find to be much easier than using SQLite through the command line, but I know this will become easier with continued use. 
