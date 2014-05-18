@@ -22,7 +22,7 @@ The relationship between `users` and `tweets` is:
 1:N (one to many) because any given user can have multiple tweets, but each tweet can only belog to one particular user.
 
 ## Release 3: Schema Design
-<img src="/axprin/phase_0_unit_3/week_7/imgs/iScreen Shot 2014-05-13 at 8.11.27 PM.png" alt="" /></a>
+<img src="https://github.com/axprin/phase_0_unit_3/blob/master/week_7/imgs/Screen%20Shot%202014-05-18%20at%201.15.16%20PM.png?raw=true" alt="" /></a>
 
 ## Release 4: SQL Statements
 <!-- Include your SQL Statements. How can you make markdown files show blocks of code? -->
