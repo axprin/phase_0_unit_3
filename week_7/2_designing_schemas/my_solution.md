@@ -5,15 +5,15 @@
 
 
 ## Release 0: Student Roster Schema
-<!-- display your image inline here -->
+<img src="https://github.com/axprin/phase_0_unit_3/blob/master/week_7/imgs/Screen%20Shot%202014-05-13%20at%207.55.04%20PM.png?raw=true" alt="" /></a>
 
 
 ## Release 1: One to Many Schema
-<!-- display your image inline here -->
-
+<!-- <img src="?raw=true" alt="" /></a> -->
+<img src="https://github.com/axprin/phase_0_unit_3/blob/master/week_7/imgs/Screen%20Shot%202014-05-13%20at%208.11.27%20PM.png?raw=true" alt="" /></a>
 
 ## Release 2: One to One Schema
-<!-- display your image inline here -->
+<img src="https://github.com/axprin/phase_0_unit_3/blob/master/week_7/imgs/Screen%20Shot%202014-05-13%20at%208.19.33%20PM.png?raw=true" alt="" /></a>
 
 
 ## Release 3: Many to Many Schema
