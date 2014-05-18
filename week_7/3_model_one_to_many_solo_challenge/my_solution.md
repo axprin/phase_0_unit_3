@@ -1,17 +1,28 @@
 # U3.W7: Modeling a Real-World Database (SOLO CHALLENGE)
 
 ## Release 0: Users Fields
-<!-- Identify the fields Twitter collects data for -->
+User fields:<br>
+-id<br>
+-username<br>
+-password<br>
+-email_address<br>
+-created_at<br>
+-modified_at<br>
 
 ## Release 1: Tweet Fields
-<!-- Identify the fields Twitter uses to represent/display a tweet. What are you required or allowed to enter? -->
+Tweet fields:<br>
+-id<br>
+-userid<br>
+-content<br>
+-created_at<br>
+-modified_at<br>
 
 ## Release 2: Explain the relationship
 The relationship between `users` and `tweets` is: 
-<!-- because... -->
+1:N (one to many) because any given user can have multiple tweets, but each tweet can only belog to one particular user.
 
 ## Release 3: Schema Design
-<!-- Include your image (inline) of your schema -->
+<img src="/axprin/phase_0_unit_3/week_7/imgs/iScreen Shot 2014-05-13 at 8.11.27 PM.png" alt="" /></a>
 
 ## Release 4: SQL Statements
 <!-- Include your SQL Statements. How can you make markdown files show blocks of code? -->
