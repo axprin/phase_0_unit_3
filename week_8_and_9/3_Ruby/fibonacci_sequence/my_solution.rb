@@ -9,8 +9,8 @@
 
 # 3. Initial Solution
 
-def is_fibonacci?(num)
-
+def is_fibonacci?(num, fibonacci = [0,1])
+  fibonacci.last < num ? is_fibonacci?(num, fibonacci << fibonacci[-1] + fibonacci[-2]) : num == fibonacci.last
 end
 
 
