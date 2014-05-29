@@ -17,6 +17,7 @@ end
 def print_longest_serving_reps(minimum_years)  #sorry guys, oracle needs me, i didn't finish this!
   puts "LONGEST SERVING REPRESENTATIVES"
   puts $db.execute("SELECT name FROM congress_members WHERE years_in_congress > #{minimum_years}")
+  puts longest_reps = $db.execute("SELECT ")
 end
 
 def print_lowest_grade_level_speakers
