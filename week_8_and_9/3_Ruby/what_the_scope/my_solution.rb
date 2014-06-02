@@ -5,6 +5,7 @@
 
 # 1. What are the problems in the error messages?
 
+# (eval):3: (eval):3: uninitialized class variable @@var_2 in Person (NameError)
 
 
 # 2. Original Code
